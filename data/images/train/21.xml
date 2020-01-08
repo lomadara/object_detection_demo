@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7.jpg</filename>
-	<path>/home/lklem/Documentos/object detection/data/images/7.jpg</path>
+	<filename>21.jpg</filename>
+	<path>/home/lklem/Documentos/object detection/data/images/21.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>303</xmin>
-			<ymin>287</ymin>
-			<xmax>514</xmax>
-			<ymax>406</ymax>
+			<xmin>300</xmin>
+			<ymin>236</ymin>
+			<xmax>504</xmax>
+			<ymax>330</ymax>
 		</bndbox>
 	</object>
 </annotation>
